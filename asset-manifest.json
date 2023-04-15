@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tuanhung220901/quanLyPhanMem/static/css/main.3da0713f.css",
-    "main.js": "/tuanhung220901/quanLyPhanMem/static/js/main.f6176649.js",
-    "static/js/787.d998e65d.chunk.js": "/tuanhung220901/quanLyPhanMem/static/js/787.d998e65d.chunk.js",
-    "static/media/logo.svg": "/tuanhung220901/quanLyPhanMem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tuanhung220901/quanLyPhanMem/index.html",
-    "main.3da0713f.css.map": "/tuanhung220901/quanLyPhanMem/static/css/main.3da0713f.css.map",
-    "main.f6176649.js.map": "/tuanhung220901/quanLyPhanMem/static/js/main.f6176649.js.map",
-    "787.d998e65d.chunk.js.map": "/tuanhung220901/quanLyPhanMem/static/js/787.d998e65d.chunk.js.map"
+    "main.css": "/quanLyPhanMem/static/css/main.3da0713f.css",
+    "main.js": "/quanLyPhanMem/static/js/main.b0780d48.js",
+    "static/js/787.d998e65d.chunk.js": "/quanLyPhanMem/static/js/787.d998e65d.chunk.js",
+    "static/media/logo.svg": "/quanLyPhanMem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quanLyPhanMem/index.html",
+    "main.3da0713f.css.map": "/quanLyPhanMem/static/css/main.3da0713f.css.map",
+    "main.b0780d48.js.map": "/quanLyPhanMem/static/js/main.b0780d48.js.map",
+    "787.d998e65d.chunk.js.map": "/quanLyPhanMem/static/js/787.d998e65d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3da0713f.css",
-    "static/js/main.f6176649.js"
+    "static/js/main.b0780d48.js"
   ]
 }
